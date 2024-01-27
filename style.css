@@ -1,0 +1,26 @@
+
+.header{
+    background-color: black;
+    color: aqua;
+    padding: 5px 5px 15px 5px;
+    
+}
+body{
+    color: aqua;
+}
+
+.btn{
+    margin-top: 10px;
+}
+
+input[type=text],input[type=email],input[type=number],input[type=date] {
+  
+    width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0; 
+         box-sizing: border-box;
+        border: 3px solid aqua;
+        display: inline-block;
+    
+    
+      }
